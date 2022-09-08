@@ -15,16 +15,22 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Wahit Fitriyanto, Full Stack Web Developer & Software Developer from Indonesia
+  <b><i>Hi, I'm Wahit Fitriyanto, Full Stack Web Developer & Software Developer from Indonesia</i></b>
   <br>
   <br>
-  💻 I love writing code and learn anythings about it
+  Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend. 
+  I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective.
   <br>
-  📚 I’m currently learning how to develop a firmware based on linux os
   <br>
-  💬 Ask me anything about from <a href="https://github.com/arshavinne/arshavinne/issues" title="Issues">Here</a>
+  - 💻 I love writing code and learn anythings about it
   <br>
-  📫 How to reach me: <a href="mailto: wahitfitriyanto@gmail.com">wahitfitriyanto@gmail.com</a>
+  - 📚 I’m currently learning how to develop a firmware based on linux os
+  <br>
+  - 💬 Ask me anything about from <a href="https://github.com/arshavinne/arshavinne/issues" title="Issues">Here</a>
+  <br>
+  - ⚡ Fun fact: My first line of code was not "Hello World!"
+  <br>
+  - 📫 How to reach me: <a href="mailto: wahitfitriyanto@gmail.com">wahitfitriyanto@gmail.com</a>
 </p>
 
 <hr>
