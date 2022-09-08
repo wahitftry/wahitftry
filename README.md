@@ -24,7 +24,7 @@
   <br>
   - 💻 I love writing code and learn anythings about it
   <br>
-  - 📚 I’m currently learning how to develop a firmware based on linux os
+  - 📚 I'm currently learning about developing Unix/Linux OS based firmware
   <br>
   - 💬 Ask me anything about from <a href="https://github.com/arshavinne/arshavinne/issues" title="Issues">Here</a>
   <br>
