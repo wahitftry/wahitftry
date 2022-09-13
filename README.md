@@ -66,18 +66,12 @@
 <br>
 <p align=center>
   <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <img align="left" width=390 src="https://streak-stats.demolab.com?user=arshavinne&theme=react&border=61dafb&hide_border=true" alt="arshavinne" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=arshavinne&show_icons=true&theme=react&border_color=61dafb&hide_border=true&count_private=true&include_all_commits=true" />
-    </a>
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=arshavinne&show_icons=true&theme=react&border_color=61dafb&hide_border=true&count_private=true&include_all_commits=1" />
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
       <img width=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshavinne&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=10&layout=compact&border_color=61dafb&hide_border=true" />
-    </a>
   </div>
   <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=arshavinne&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
@@ -102,7 +96,5 @@ Here are some ideas to get you started:
 
 
 Notes: If you want use this readme, firstly star it please. If you can't align your repositories like this, please change your repository desription to shorter than now. Maybe 4 or 5 word will be good.
-
-![Metrics](https://metrics.lecoq.io/zumrudu-anka?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Europe%2FIstanbul)
 
 -->
