@@ -26,7 +26,7 @@
   <br>
   - 📚 I'm currently learning about developing Unix/Linux OS based firmware
   <br>
-  - 💬 Ask me anything about from <a href="https://github.com/arshavinne/arshavinne/issues" title="Issues">Here</a>
+  - 💬 Ask me anything about from <a href="https://github.com/arshavinne/arshavinne/discussions" title="Issues">Here</a>
   <br>
   - ⚡ Fun fact: My first line of code was not "Hello World!"
   <br>
