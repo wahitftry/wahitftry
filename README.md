@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=arshavinne.arshavinne">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=wahitfitriyanto.wahitfitriyanto">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -60,15 +60,15 @@
 <br>
 <p align=center>
   <div align=center>
-      <img align="left" width=390 src="https://streak-stats.demolab.com?user=arshavinne&theme=react&border=61dafb&hide_border=true" alt="arshavinne" />
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=arshavinne&show_icons=true&theme=react&border_color=61dafb&hide_border=true&count_private=true&include_all_commits=true" />
+      <img align="left" width=390 src="https://streak-stats.demolab.com?user=wahitfitriyanto&theme=react&border=61dafb&hide_border=true" alt="arshavinne" />
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=wahitfitriyanto&show_icons=true&theme=react&border_color=61dafb&hide_border=true&count_private=true&include_all_commits=true" />
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
-      <img width=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshavinne&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=10&layout=compact&border_color=61dafb&hide_border=true" />
+      <img width=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahitfitriyanto&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=10&layout=compact&border_color=61dafb&hide_border=true" />
   </div>
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=arshavinne&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=wahitfitriyanto&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
 <hr>
