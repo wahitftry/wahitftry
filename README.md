@@ -22,7 +22,7 @@
   <br>
   - 💻 I love writing code and learn anythings about it
   <br>
-  - 📚 I'm currently learning about developing Unix/Linux OS based firmware
+  - 📚 I'm currently learning about anything
   <br>
   - 💬 Ask me anything about from <a href="https://github.com/arshavinne/arshavinne/discussions" title="Issues">Here</a>
   <br>
