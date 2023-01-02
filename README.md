@@ -13,7 +13,7 @@
 </h5>
 <br>
 <p align="center">
-  <!--<b><i>Hi, I'm Wahit Fitriyanto, Full Stack Web Developer & Software Developer from Indonesia</i></b>-->
+  <b><i>Hi, I'm Wahit Fitriyanto</i></b>
   <br>
   <br>
   Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend. 
