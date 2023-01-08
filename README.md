@@ -66,7 +66,7 @@
       <img width=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahitfitriyanto&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=10&layout=compact&border_color=61dafb&hide_border=true" />
   </div>
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=wahitfitriyanto&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=wahitfitriyanto&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
 <hr>
