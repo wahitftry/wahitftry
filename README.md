@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?pause=1000&lines=Hello,+There!+👋;This+is+Wahit+Fitriyanto;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?pause=1000&lines=Hello,+There!+👋;This+is+Wahit;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
@@ -13,7 +13,7 @@
 </h5>
 <br>
 <p align="center">
-  <b><i>Hi, I'm Wahit Fitriyanto</i></b>
+  <b><i>Hi, I'm Wahit</i></b>
   <br>
   <br>
   Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend. 
