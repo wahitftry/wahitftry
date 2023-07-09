@@ -12,7 +12,7 @@ I am an informatics engineering student 🎓 from Boyolali University 🏛. I am
 
 Joined Github **6** years ago.
 
-Since then I pushed **295**+ commits, opened **6**+ issues, submitted **5**+ pull requests, created **0**+ gists and contributed to **3**+ public repositories.
+Since then I pushed **297**+ commits, opened **6**+ issues, submitted **5**+ pull requests, created **0**+ gists and contributed to **3**+ public repositories.
 
 Like My Work?
 
@@ -62,8 +62,8 @@ Like My Work?
   <summary><b>⚡ Github Stats</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wahitftry&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahitftry&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats-wahit.vercel.app/api?username=wahitftry&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats-wahit.vercel.app/api/top-langs/?username=wahitftry&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
 
 <details>	
