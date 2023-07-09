@@ -10,9 +10,9 @@
 
 I am an informatics engineering student 🎓 from Boyolali University 🏛. I am a passionate learner who is always eager to learn and work across technologies and domains 💡. I love exploring new technologies and leveraging them to solve real life problems ✨. Besides that, I also like to learn new things that I haven't learned before 👨🏻‍💻. I'm currently in Web Development 🕸️ and working on Data Structures and Algorithms 🤓.
 
-Joined Github **{{ ACCOUNT_AGE }}** years ago.
+Joined Github **6** years ago.
 
-Since then I pushed **{{ COMMITS }}**+ commits, opened **{{ ISSUES }}**+ issues, submitted **{{ PULL_REQUESTS }}**+ pull requests, created **{{ GISTS }}**+ gists and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}**+ public repositories.
+Since then I pushed **192**+ commits, opened **6**+ issues, submitted **5**+ pull requests, created **0**+ gists and contributed to **3**+ public repositories.
 
 Like My Work?
 
