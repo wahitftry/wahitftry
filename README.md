@@ -12,7 +12,7 @@ I am an informatics engineering student 🎓 from Boyolali University 🏛. I am
 
 Joined Github **6** years ago.
 
-Since then I pushed **311**+ commits, opened **7**+ issues, submitted **9**+ pull requests, created **0**+ gists and contributed to **4**+ public repositories.
+Since then I pushed **312**+ commits, opened **7**+ issues, submitted **9**+ pull requests, created **0**+ gists and contributed to **4**+ public repositories.
 
 Like My Work?
 
@@ -131,7 +131,7 @@ Like My Work?
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
   	    <li><b>OS:</b> Windows 11 With WSL Activated</li>
-	    <li><b>PC: </b> Core i7 with 8 GB RAM</li>
+	    <li><b>PC: </b>Private</li>
   	    <li><b>Browser: </b> Chrome</li>
 	    <li><b>Terminal: </b> PowerShell & Commandline</li>
 	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
