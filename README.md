@@ -12,7 +12,7 @@ I am an informatics engineering student 🎓 from Boyolali University 🏛. I am
 
 Joined Github **6** years ago.
 
-Since then I <!--pushed **350**+ commits,--> opened **7**+ issues, submitted **11**+ pull requests, created **0**+ gists and contributed to **5**+ public repositories.
+Since then I <!--pushed **357**+ commits,--> opened **7**+ issues, submitted **11**+ pull requests, created **0**+ gists and contributed to **5**+ public repositories.
 
 Like My Work?
 
