@@ -12,7 +12,7 @@ I am an informatics engineering student 🎓 from Boyolali University 🏛. I am
 
 Joined Github **6** years ago.
 
-Since then I <!--pushed **385**+ commits,--> opened **7**+ issues, submitted **21**+ pull requests, created **0**+ gists and contributed to **9**+ public repositories.
+Since then I <!--pushed **395**+ commits,--> opened **7**+ issues, submitted **22**+ pull requests, created **0**+ gists and contributed to **9**+ public repositories.
 
 Like My Work?
 
@@ -90,12 +90,12 @@ Like My Work?
     </thead>
     <tbody>
       <tr>
-	      <td><a href="https://github.com/wahitftry/Hey-World"><b>🚀 MultiLang Algo</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/wahitftry/MultiLang-Algo?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/wahitftry/MultiLang-Algo?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/wahitftry/MultiLang-Algo?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/wahitftry/MultiLang-Algo?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/wahitftry/MultiLang-Algo?style=flat-square"/></td>
+	      <td><a href="https://github.com/wahitftry/Hey-World"><b>🚀 Hey-World</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/wahitftry/Hey-World?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/wahitftry/Hey-World?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/wahitftry/Hey-World?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/wahitftry/Hey-World?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/wahitftry/Hey-World?style=flat-square"/></td>
       </tr>
       <tr>
 	      <td><a href="https://github.com/wahitftry/Central-West-Java"><b>💸 Central West Java</b></a></td>
