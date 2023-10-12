@@ -1,5 +1,6 @@
 ## Hey 👋, I'm [Wahit Fitriyanto!](https://github.com/wahitftry/)
 
+[![An image of @arshavinne's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arshavinne)](https://holopin.io/@arshavinne)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wahit-fitriyanto/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://wahit.vercel.app/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/wahidftry)
