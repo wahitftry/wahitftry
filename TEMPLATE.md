@@ -1,6 +1,7 @@
+# ***Indonesia will always stand with Palestine***
 [![ReadMeSupportPalestine](https://github.com/Safouene1/support-palestine-banner/blob/master/banner-support.svg)](https://kemlu.go.id/amman/en/news/1359/indonesia-will-always-stand-with-palestine)
-> [!IMPORTANT]
-> ***Indonesia will always stand with Palestine***
+![Support for palestine](https://backpanel.kemlu.go.id/PublishingImages/WhatsApp%20Image%202019-07-16%20at%2017.42.14.jpeg)
+
 ## Hey 👋, I'm [Wahit Fitriyanto!](https://github.com/wahitftry/)
 
 [![An image of @arshavinne's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arshavinne)](https://holopin.io/@arshavinne)
