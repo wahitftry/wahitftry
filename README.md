@@ -1,3 +1,5 @@
+[![ReadMeSupportPalestine](https://github.com/Safouene1/support-palestine-banner/blob/master/banner-support.svg)](https://kemlu.go.id/amman/en/news/1359/indonesia-will-always-stand-with-palestine)
+
 ## Hey 👋, I'm [Wahit Fitriyanto!](https://github.com/wahitftry/)
 
 [![An image of @arshavinne's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arshavinne)](https://holopin.io/@arshavinne)
@@ -13,7 +15,7 @@ I am an informatics engineering student 🎓 from Boyolali University 🏛. I am
 
 Joined Github **6** years ago.
 
-Since then I <!--pushed **504**+ commits,--> opened **7**+ issues, submitted **24**+ pull requests, created **0**+ gists and contributed to **11**+ public repositories.
+Since then I <!--pushed **505**+ commits,--> opened **7**+ issues, submitted **24**+ pull requests, created **0**+ gists and contributed to **11**+ public repositories.
 
 Like My Work?
 
