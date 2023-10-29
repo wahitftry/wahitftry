@@ -1,6 +1,6 @@
 # ***Indonesia will always stand with Palestine***
 [![ReadMeSupportPalestine](https://github.com/Safouene1/support-palestine-banner/blob/master/banner-support.svg)](https://kemlu.go.id/amman/en/news/1359/indonesia-will-always-stand-with-palestine)
-![Support for palestine](https://backpanel.kemlu.go.id/PublishingImages/WhatsApp%20Image%202019-07-16%20at%2017.42.14.jpeg)
+![Support for palestine](important.jpeg)
 
 ## Hey 👋, I'm [Wahit Fitriyanto!](https://github.com/wahitftry/)
 
@@ -17,7 +17,7 @@ I am an informatics engineering student 🎓 from Boyolali University 🏛. I am
 
 Joined Github **6** years ago.
 
-Since then I <!--pushed **508**+ commits,--> opened **7**+ issues, submitted **24**+ pull requests, created **0**+ gists and contributed to **11**+ public repositories.
+Since then I <!--pushed **509**+ commits,--> opened **7**+ issues, submitted **24**+ pull requests, created **0**+ gists and contributed to **11**+ public repositories.
 
 Like My Work?
 
