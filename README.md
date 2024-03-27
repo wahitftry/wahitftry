@@ -1,3 +1,4 @@
+![](https://hit.yhype.me/github/profile?user_id=26300406)
 ## Hey 👋, I'm [Wahit Fitriyanto!](https://github.com/wahitftry/)
 
 [![An image of @arshavinne's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arshavinne)](https://holopin.io/@arshavinne)
@@ -13,7 +14,7 @@ I am an informatics engineering student 🎓 from Boyolali University 🏛. I am
 
 Joined Github **7** years ago.
 
-Since then I <!--pushed **632**+ commits,--> opened **7**+ issues, submitted **28**+ pull requests, created **0**+ gists and contributed to **11**+ public repositories.
+Since then I <!--pushed **633**+ commits,--> opened **7**+ issues, submitted **28**+ pull requests, created **0**+ gists and contributed to **11**+ public repositories.
 
 Like My Work?
 
