@@ -1,52 +1,4 @@
-# STAND-WITH-PALESTINE!
-![SWP-Logo](https://github.com/PalestinianVoices/Stand-With-Palestine/assets/49572294/1076c7a8-effc-4617-8b32-25f9b9920fd3)
-
-Stand-With-Palestine is an initiative (realized in the form of a website) aimed at uncovering Israeli war crimes, disinformation, and genocidal intent, while also providing resources for pro-Palestinians to support their cause and stay up-to-date with the ongoing conflict. 
-
-**In pursuit of these goals, our mission lies in fulfilling four objectives:**
-
-- Documenting the ongoing genocide as well as older war crimes committed by Israel—we will never forget;
-- Keeping people up to date with the status of Gaza and recent news related to the conflict—we will always remember;
-- Offer various avenues for people to support Palestine—we will never stop sharing;
-- Open the eyes of people in the west to the reality of what's going on in Gaza while exposing Israeli propaganda to nurture more of their support towards Palestine—stand with Palestine;
-
-<img width="1223" alt="image" src="https://github.com/PalestinianVoices/Stand-With-Palestine/assets/49572294/9686dc63-866d-4ee5-99f1-20d321f6922b">
-Visit the website at https://Stand-With-Palestine.org
-
-<table>
-  <tr>
-    <th>Page</th>
-    <td>Home</td>
-    <td>Status</td>
-    <td>Timeline</td>
-    <td>Support</td>
-  </tr>
-  <tr>
-    <th>Purpose</th>
-    <td>Tell a compelling story about the reality of Israel's campaign against Gaza</td>
-    <td>Convey the current state of Israeli aggresion in numbers and statistics</td>
-    <td>Keep people up-to-date with recent developments in the conflict</td>
-    <td>Provide various means to support Palestine</td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <th>Page</th>
-    <td>Crimes</td>
-    <td>Lies</td>
-    <td>Intents</td>
-    <td>Blogs</td>
-  </tr>
-  <tr>
-    <th>Purpose</th>
-    <td>Record the ongoing and historical criminal record of Israel</td>
-    <td>Refute various instances of Israeli disinformation and propaganda</td>
-    <td>Provide evidence that Israel's campaign is rooted in genocidal intent</td>
-    <td>Provide transcribed interviews and blogs to enhance understanding of the conflict</td>
-  </tr>
-</table>
-
+![](https://hit.yhype.me/github/profile?user_id=26300406)
 ## Hey 👋, I'm [Wahit Fitriyanto!](https://github.com/wahitftry/)
 
 [![An image of @arshavinne's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arshavinne)](https://holopin.io/@arshavinne)
@@ -62,7 +14,7 @@ I am an informatics engineering student 🎓 from Boyolali University 🏛. I am
 
 Joined Github **7** years ago.
 
-Since then I <!--pushed **630**+ commits,--> opened **7**+ issues, submitted **28**+ pull requests, created **1**+ gists and contributed to **11**+ public repositories.
+Since then I <!--pushed **631**+ commits,--> opened **7**+ issues, submitted **28**+ pull requests, created **1**+ gists and contributed to **11**+ public repositories.
 
 Like My Work?
 
