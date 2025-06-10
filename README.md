@@ -16,7 +16,7 @@ I am an informatics engineering student 🎓 from Boyolali University 🏛. I am
 
 Joined Github **8** years ago.
 
-Since then I <!--pushed **463**+ commits,--> opened **7**+ issues, submitted **31**+ pull requests, created **1**+ gists and contributed to **2**+ public repositories.
+Since then I <!--pushed **463**+ commits,--> opened **8**+ issues, submitted **31**+ pull requests, created **1**+ gists and contributed to **3**+ public repositories.
 
 Like My Work?
 
